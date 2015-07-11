@@ -1,0 +1,72 @@
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in ash.workhorse(betahat, sebetahat, mixcompdist = mixcompdist,  :
+  It's likely that the input data is not coming from a distribution with zero mean, consider to set nonzeromode=TRUE when applying ash()
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
+Warning in EMest(betahat[completeobs], lambda1 * sebetahat[completeobs] +  :
+  EM algorithm in function mixEM failed to converge. Results may be unreliable. Try increasing maxiter and rerunning.
